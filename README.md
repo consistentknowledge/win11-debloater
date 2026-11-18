@@ -22,6 +22,8 @@
 
 You can choose to either 'Debloat' or 'Revert'. Depending on your choice, either one will run specific code to either debloat your Windows 10 machine.
 
+Remember this script **NEEDS** to be run as admin in order to function properly.
+
 ## The Debloat switch choice runs the following functions
 
 Debloat,
