@@ -1,4 +1,4 @@
-# win11debloater
+# win11-debloater
 
 [Download now](https://github.com/consistentknowledge/win11-debloater/releases#:~:text=win11%2Ddebloater%2D1.09.zip)
 
@@ -19,7 +19,7 @@
 ### Usage
 
 1) Download the .zip file on the main page of the GitHub and extract the .zip file to your desired location
-2) Right-click the .exe file and click on "Run As Administartor"
+2) Right-click the .exe file and click on "Run As Administrator"
 3) Select the actions you want to perform.
 
 You can choose to either 'Debloat' or 'Revert'. Depending on your choice, either one will run specific code to either debloat your Windows 10 machine.
